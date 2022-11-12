@@ -1,0 +1,24 @@
+.about {
+  
+ 
+}
+
+.aboutImg {
+  height: 300px;
+  background-image: url(../images/aboutImg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.about1 {
+  margin-top: 20px;
+  margin-left: 130px;
+  margin-bottom: 40px;
+}
+.about2 {
+  margin-top: 20px;
+  margin-left: 130px;
+  width: auto;
+}
+.text {
+  text-align: center;
+}

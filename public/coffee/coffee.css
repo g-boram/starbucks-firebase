@@ -1,0 +1,51 @@
+.itemImg{
+  background-image: url(../images/main-bg7.jpg);
+  height: 400px;
+  /* margin-top: -50px; */
+  background-position: center;
+  
+}
+/* .inner{
+  margin-top: 30px;
+} */
+
+.items {
+  margin-top: 100px;
+  height: auto;
+}
+
+.itemList {
+ text-align: center;
+  margin-top: 40px;
+  padding: 30px;
+}
+.thumbnail {
+  margin-left: 60px;
+  height: 300px;
+  max-width: 250px;
+  width: 100%;
+  border-radius: 10px;
+  background-size: cover;
+  background-position: center;
+}
+
+.itemList .name {
+  font-size: 18px;
+  font-weight: 600;
+}
+.itemList .price {
+  font-size: 16px;
+  font-weight: 600;
+  color: darkgreen;
+}
+.itemList .kcal {
+  font-size: 12px;
+  font-weight: 600;
+}
+.itemList .description {
+  font-size: 12px;
+  font-weight: 600;
+  margin: 0 10px 10px 20px;
+  line-height: normal;
+  color: rgb(54, 54, 54);
+}

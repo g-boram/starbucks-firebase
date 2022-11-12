@@ -1,0 +1,16 @@
+.upload {
+  height: 700px;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.uploadImg {
+  
+  background-image: url("../images/uploadBanner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 300px;
+  margin-bottom: -30px;
+ 
+}
